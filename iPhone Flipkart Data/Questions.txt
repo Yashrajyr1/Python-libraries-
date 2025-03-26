@@ -1,0 +1,15 @@
+Analysis questions:
+
+1. What are top 10 highest rated iphones in India?
+
+2. How many ratings do the highest rated iphones have?
+
+3. Which iphone has the highest number of reviews?
+
+4. What is relationship betweeen the sale price of iphones and the number of ratings?
+
+5. What is relationship betweeen the discount percentage and the number of ratings of iphones?
+
+6. Can you figure out the least expensive and the most expensive iphones in Indian Market, along with all their specifications?
+
+7. Provide url for all the phones with 6GB ram, also costs less than 1Lakh.
